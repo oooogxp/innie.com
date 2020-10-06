@@ -1,0 +1,1 @@
+gsap.to(".main", {duration: 3, x: 100});

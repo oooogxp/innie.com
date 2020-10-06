@@ -1,0 +1,18 @@
+.main-title {
+    margin: 15px;
+    height: 30;
+}
+
+.main-text {
+    margin: 15px;
+    height: 200px;
+}
+
+    
+.button {
+    margin: 10px;
+    padding: 0;
+    border: none;
+    background: none;
+
+}
