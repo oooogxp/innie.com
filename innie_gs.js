@@ -1,1 +1,1 @@
-gsap.to(".main", {duration: 3, x: 100});
+gsap.to(".title", {duration: 3, y: 10});
